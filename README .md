@@ -1,7 +1,9 @@
 
 # Slide out menu code 
 
-This projects uses Node.js and Express.js as its framework to create a slide out menu
+This projects uses Node.js and Express.js as its framework to create a slide out menu.
+![challenge (1)](https://user-images.githubusercontent.com/40389927/232876165-b00cf081-4915-44de-8368-50d56b82c7ba.jpg)
+
 
 ## Features
 
