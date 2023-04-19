@@ -21,7 +21,7 @@ This projects uses Node.js and Express.js as its framework to create a slide out
 
 ## Demo
 
-Insert gif or link to demo
+(https://code-challenge.herokuapp.com/)
 
 
 ## Deployment
